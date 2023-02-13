@@ -1,0 +1,4 @@
+# Hello! I'm Altaf Hussain (Alti). 
+## I'm a Devops Engineer based in Islamabad, Pakistan. 
+### I blend technical wizardry and creative artistry to elevate infrastructure and drive digital transformation. 
+Being a devops engineer, I have hands-on experience with Linux (Ubuntu), containerization (Docker), container orchestration (Kubernetes), continuous integration pipelines (GitHub actions, GitLab CI), version control systems (GitHub, GitLab, Docker Hub), continuous deployment tools (ArgoCD, RancherCD, FluxCD), configuration management tools (Ansible), Infrastructure as a Code (Terraform*), cloud computing (AWS, Azure, Digital Ocean), and Helm charts. I'm also a blogger/writer at Medium. I'm available and flexible to move and work in a big giant to further polish my skills and to serve them with my expertise. 
